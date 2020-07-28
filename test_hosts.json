@@ -1,0 +1,12 @@
+[
+    {
+        "ip":"www.google.com",
+        "name":"Google",
+        "args":["--tcp","-p","443"]
+    },
+    {
+        "ip":"4.2.2.2",
+        "name":"DNS",
+        "args":["--udp","-p","53"]
+    }
+]
